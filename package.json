@@ -1,5 +1,5 @@
 {
-  "name": "time-based-buckets",
+  "name": "@regular/time-based-buckets",
   "version": "1.0.0",
   "description": "Generates bucket-ids from UNIX timestamps for time-based aggregation",
   "main": "index.js",
