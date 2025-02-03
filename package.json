@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates bucket-ids from UNIX timestamps for time-based aggregation",
   "main": "index.js",
   "scripts": {
